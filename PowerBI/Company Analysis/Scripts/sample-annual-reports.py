@@ -4,10 +4,14 @@ import random
 
 # Load the list of companies from the CSV
 companies = []
-with open("companies.csv", mode="r") as csv_file:
+with open("./PowerBI/Company Analysis/Data/companies.csv", mode="r") as csv_file:
     reader = csv.DictReader(csv_file)
     for row in reader:
         companies.append(row)
+
+# Function to generate random integer weights between 0 and 5
+def generate_random_weights():
+    return [random.randint(0, 5) for _ in range(5)]
 
 # Function to generate annual reports for a company within a specific year
 def generate_annual_reports_for_company(year, company_id):
@@ -25,6 +29,11 @@ def generate_annual_reports_for_company(year, company_id):
         "CompanyID": company_id,
         "AnnualReportID": annual_report_id,
         "ReportingYear": reporting_year,
+        "Criteria_1": generate_random_weights()[0],
+        "Criteria_2": generate_random_weights()[0],
+        "Criteria_3": generate_random_weights()[0],
+        "Criteria_4": generate_random_weights()[0],
+        "Criteria_5": generate_random_weights()[0],
         "SubmissionDate": submission_date.strftime("%Y-%m-%d")
     })
     return annual_reports
@@ -43,8 +52,8 @@ for company in companies:
         annual_reports.extend(generate_annual_reports_for_company(year, company_id))
 
 # Write the list of annual reports to a CSV file
-with open("annual_reports.csv", mode="w", newline="") as csv_file:
-    fieldnames = ["CompanyID", "AnnualReportID", "ReportingYear", "SubmissionDate"]
+with open("./PowerBI/Company Analysis/Data/annual_reports.csv", mode="w", newline="") as csv_file:
+    fieldnames = ["CompanyID", "AnnualReportID", "ReportingYear", "Criteria_1", "Criteria_2", "Criteria_3", "Criteria_4", "Criteria_5", "SubmissionDate"]
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
     writer.writeheader()
