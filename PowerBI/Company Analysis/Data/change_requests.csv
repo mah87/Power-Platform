@@ -1,0 +1,404 @@
+Year,CompanyID,Name,SubmissionDate
+2022,COMP001,Implement New Process,1/19/2022
+2022,COMP001,Upgrade Software,6/13/2022
+2024,COMP001,Database Optimization,2/15/2024
+2024,COMP002,Upgrade Software,10/24/2024
+2024,COMP002,Implement New Process,7/26/2024
+2025,COMP002,Infrastructure Maintenance,8/27/2025
+2024,COMP003,Database Optimization,11/5/2024
+2025,COMP003,Implement New Process,6/26/2025
+2023,COMP004,Infrastructure Maintenance,4/22/2023
+2023,COMP004,Infrastructure Maintenance,8/6/2023
+2024,COMP004,Upgrade Software,8/4/2024
+2024,COMP004,Infrastructure Maintenance,12/9/2024
+2025,COMP004,Infrastructure Maintenance,8/15/2025
+2022,COMP005,Implement New Process,7/12/2022
+2022,COMP005,Upgrade Software,7/28/2022
+2024,COMP005,Database Optimization,10/18/2024
+2024,COMP005,Infrastructure Maintenance,1/5/2024
+2025,COMP005,Infrastructure Maintenance,2/11/2025
+2025,COMP005,Infrastructure Maintenance,11/21/2025
+2022,COMP006,Database Optimization,6/24/2022
+2022,COMP006,Implement New Process,8/19/2022
+2023,COMP006,Security Enhancement,3/15/2023
+2023,COMP006,Upgrade Software,12/5/2023
+2024,COMP006,Database Optimization,1/12/2024
+2024,COMP006,Database Optimization,6/26/2024
+2022,COMP007,Implement New Process,1/9/2022
+2023,COMP007,Implement New Process,6/7/2023
+2025,COMP007,Upgrade Software,5/3/2025
+2022,COMP008,Database Optimization,1/25/2022
+2022,COMP008,Upgrade Software,11/20/2022
+2023,COMP008,Security Enhancement,2/8/2023
+2023,COMP008,Upgrade Software,6/3/2023
+2024,COMP008,Security Enhancement,1/17/2024
+2022,COMP009,Infrastructure Maintenance,9/5/2022
+2022,COMP009,Security Enhancement,6/8/2022
+2024,COMP009,Database Optimization,2/2/2024
+2024,COMP009,Infrastructure Maintenance,4/28/2024
+2025,COMP009,Security Enhancement,9/21/2025
+2025,COMP009,Implement New Process,12/17/2025
+2022,COMP010,Security Enhancement,10/1/2022
+2022,COMP010,Infrastructure Maintenance,7/5/2022
+2023,COMP010,Upgrade Software,11/13/2023
+2023,COMP010,Database Optimization,2/23/2023
+2024,COMP010,Implement New Process,5/24/2024
+2022,COMP011,Upgrade Software,10/12/2022
+2024,COMP011,Security Enhancement,9/13/2024
+2025,COMP011,Database Optimization,10/11/2025
+2025,COMP011,Upgrade Software,6/22/2025
+2022,COMP012,Implement New Process,9/3/2022
+2023,COMP012,Database Optimization,2/7/2023
+2023,COMP012,Database Optimization,7/25/2023
+2024,COMP012,Implement New Process,8/23/2024
+2024,COMP012,Implement New Process,4/7/2024
+2023,COMP013,Upgrade Software,6/8/2023
+2024,COMP013,Infrastructure Maintenance,5/18/2024
+2025,COMP013,Upgrade Software,12/27/2025
+2023,COMP014,Implement New Process,11/27/2023
+2024,COMP014,Implement New Process,1/26/2024
+2024,COMP014,Upgrade Software,7/1/2024
+2022,COMP015,Implement New Process,10/15/2022
+2022,COMP015,Upgrade Software,1/8/2022
+2023,COMP015,Security Enhancement,1/15/2023
+2025,COMP015,Security Enhancement,7/2/2025
+2025,COMP015,Upgrade Software,12/17/2025
+2022,COMP016,Security Enhancement,4/18/2022
+2023,COMP017,Upgrade Software,3/25/2023
+2024,COMP017,Security Enhancement,1/18/2024
+2025,COMP017,Database Optimization,6/13/2025
+2025,COMP017,Upgrade Software,4/7/2025
+2022,COMP018,Infrastructure Maintenance,8/1/2022
+2022,COMP018,Implement New Process,8/1/2022
+2023,COMP018,Upgrade Software,5/2/2023
+2023,COMP019,Upgrade Software,11/14/2023
+2023,COMP019,Upgrade Software,10/11/2023
+2023,COMP020,Security Enhancement,10/20/2023
+2023,COMP020,Infrastructure Maintenance,3/1/2023
+2025,COMP020,Database Optimization,7/20/2025
+2022,COMP021,Upgrade Software,2/7/2022
+2023,COMP021,Security Enhancement,10/23/2023
+2024,COMP021,Database Optimization,1/2/2024
+2024,COMP021,Infrastructure Maintenance,5/7/2024
+2025,COMP021,Upgrade Software,6/9/2025
+2022,COMP022,Upgrade Software,12/23/2022
+2022,COMP022,Infrastructure Maintenance,11/17/2022
+2023,COMP022,Database Optimization,8/8/2023
+2024,COMP022,Implement New Process,4/16/2024
+2025,COMP022,Security Enhancement,7/25/2025
+2025,COMP022,Database Optimization,10/17/2025
+2022,COMP023,Infrastructure Maintenance,2/20/2022
+2023,COMP023,Infrastructure Maintenance,7/5/2023
+2023,COMP023,Infrastructure Maintenance,11/19/2023
+2022,COMP024,Infrastructure Maintenance,11/10/2022
+2022,COMP024,Implement New Process,5/26/2022
+2024,COMP024,Infrastructure Maintenance,12/3/2024
+2024,COMP024,Upgrade Software,11/7/2024
+2022,COMP025,Database Optimization,3/13/2022
+2022,COMP025,Implement New Process,1/13/2022
+2025,COMP025,Infrastructure Maintenance,5/6/2025
+2023,COMP026,Database Optimization,11/28/2023
+2023,COMP026,Security Enhancement,9/10/2023
+2024,COMP026,Infrastructure Maintenance,11/24/2024
+2024,COMP026,Security Enhancement,10/6/2024
+2025,COMP026,Security Enhancement,12/21/2025
+2023,COMP027,Upgrade Software,7/19/2023
+2023,COMP028,Database Optimization,11/8/2023
+2022,COMP029,Implement New Process,12/9/2022
+2022,COMP029,Implement New Process,5/18/2022
+2023,COMP030,Upgrade Software,6/23/2023
+2023,COMP030,Upgrade Software,12/10/2023
+2024,COMP030,Database Optimization,11/17/2024
+2022,COMP031,Implement New Process,3/16/2022
+2023,COMP031,Upgrade Software,2/14/2023
+2023,COMP031,Database Optimization,11/17/2023
+2024,COMP031,Upgrade Software,9/22/2024
+2025,COMP031,Infrastructure Maintenance,4/11/2025
+2022,COMP032,Infrastructure Maintenance,5/28/2022
+2022,COMP032,Infrastructure Maintenance,7/11/2022
+2022,COMP033,Security Enhancement,9/23/2022
+2023,COMP033,Upgrade Software,10/13/2023
+2024,COMP033,Infrastructure Maintenance,1/2/2024
+2025,COMP033,Security Enhancement,6/14/2025
+2025,COMP033,Database Optimization,4/15/2025
+2022,COMP034,Upgrade Software,7/5/2022
+2022,COMP034,Database Optimization,4/4/2022
+2023,COMP034,Upgrade Software,5/1/2023
+2024,COMP034,Upgrade Software,3/21/2024
+2024,COMP034,Upgrade Software,2/2/2024
+2022,COMP035,Upgrade Software,6/12/2022
+2022,COMP035,Implement New Process,4/17/2022
+2023,COMP035,Upgrade Software,11/23/2023
+2025,COMP035,Infrastructure Maintenance,5/13/2025
+2025,COMP035,Database Optimization,3/11/2025
+2023,COMP036,Upgrade Software,2/3/2023
+2024,COMP036,Implement New Process,6/26/2024
+2025,COMP036,Infrastructure Maintenance,2/21/2025
+2025,COMP036,Upgrade Software,9/18/2025
+2022,COMP037,Database Optimization,4/11/2022
+2023,COMP037,Upgrade Software,9/16/2023
+2023,COMP037,Upgrade Software,10/8/2023
+2024,COMP037,Security Enhancement,11/10/2024
+2024,COMP037,Security Enhancement,7/16/2024
+2025,COMP037,Upgrade Software,5/18/2025
+2022,COMP038,Upgrade Software,6/12/2022
+2022,COMP038,Upgrade Software,9/4/2022
+2023,COMP038,Database Optimization,4/27/2023
+2023,COMP038,Security Enhancement,10/20/2023
+2025,COMP038,Security Enhancement,9/23/2025
+2023,COMP039,Infrastructure Maintenance,4/3/2023
+2025,COMP039,Infrastructure Maintenance,3/8/2025
+2022,COMP040,Implement New Process,8/1/2022
+2022,COMP040,Security Enhancement,3/25/2022
+2025,COMP040,Upgrade Software,12/23/2025
+2025,COMP040,Infrastructure Maintenance,6/13/2025
+2022,COMP041,Upgrade Software,9/20/2022
+2022,COMP041,Implement New Process,9/19/2022
+2023,COMP041,Infrastructure Maintenance,4/5/2023
+2023,COMP041,Database Optimization,1/6/2023
+2024,COMP041,Implement New Process,3/26/2024
+2024,COMP041,Upgrade Software,10/28/2024
+2022,COMP042,Security Enhancement,5/10/2022
+2023,COMP042,Database Optimization,1/5/2023
+2022,COMP043,Database Optimization,1/9/2022
+2022,COMP043,Database Optimization,12/6/2022
+2023,COMP043,Implement New Process,4/7/2023
+2023,COMP043,Infrastructure Maintenance,4/23/2023
+2024,COMP043,Upgrade Software,8/4/2024
+2025,COMP043,Implement New Process,9/4/2025
+2022,COMP044,Upgrade Software,11/14/2022
+2022,COMP044,Implement New Process,8/14/2022
+2023,COMP044,Database Optimization,2/17/2023
+2023,COMP044,Infrastructure Maintenance,7/10/2023
+2024,COMP044,Database Optimization,3/21/2024
+2022,COMP045,Security Enhancement,5/10/2022
+2023,COMP045,Infrastructure Maintenance,12/24/2023
+2023,COMP045,Database Optimization,4/3/2023
+2024,COMP045,Security Enhancement,9/22/2024
+2024,COMP045,Security Enhancement,3/16/2024
+2025,COMP045,Database Optimization,5/3/2025
+2025,COMP045,Infrastructure Maintenance,11/27/2025
+2022,COMP046,Security Enhancement,7/15/2022
+2023,COMP046,Database Optimization,4/12/2023
+2024,COMP046,Database Optimization,11/12/2024
+2024,COMP046,Security Enhancement,12/24/2024
+2025,COMP046,Implement New Process,10/11/2025
+2025,COMP046,Implement New Process,5/17/2025
+2023,COMP047,Database Optimization,1/19/2023
+2023,COMP047,Security Enhancement,11/12/2023
+2024,COMP047,Security Enhancement,9/3/2024
+2024,COMP047,Database Optimization,8/5/2024
+2025,COMP047,Security Enhancement,6/14/2025
+2022,COMP048,Implement New Process,10/4/2022
+2023,COMP048,Infrastructure Maintenance,5/20/2023
+2024,COMP048,Implement New Process,11/5/2024
+2025,COMP048,Database Optimization,6/6/2025
+2025,COMP048,Implement New Process,5/18/2025
+2022,COMP049,Database Optimization,8/24/2022
+2022,COMP049,Implement New Process,5/20/2022
+2023,COMP049,Implement New Process,7/8/2023
+2024,COMP050,Security Enhancement,3/9/2024
+2024,COMP050,Database Optimization,5/1/2024
+2025,COMP050,Security Enhancement,12/22/2025
+2023,COMP051,Infrastructure Maintenance,3/27/2023
+2025,COMP051,Infrastructure Maintenance,5/23/2025
+2025,COMP051,Implement New Process,1/18/2025
+2022,COMP052,Upgrade Software,10/17/2022
+2022,COMP052,Database Optimization,7/10/2022
+2023,COMP052,Security Enhancement,9/28/2023
+2024,COMP052,Database Optimization,7/6/2024
+2024,COMP052,Upgrade Software,9/9/2024
+2025,COMP052,Security Enhancement,12/18/2025
+2025,COMP052,Upgrade Software,10/3/2025
+2022,COMP053,Implement New Process,4/13/2022
+2022,COMP053,Infrastructure Maintenance,11/5/2022
+2023,COMP053,Upgrade Software,8/11/2023
+2025,COMP053,Upgrade Software,2/9/2025
+2022,COMP054,Upgrade Software,1/22/2022
+2025,COMP054,Upgrade Software,5/7/2025
+2022,COMP055,Implement New Process,10/5/2022
+2022,COMP055,Infrastructure Maintenance,1/9/2022
+2023,COMP055,Database Optimization,4/24/2023
+2023,COMP055,Upgrade Software,5/26/2023
+2024,COMP055,Infrastructure Maintenance,4/4/2024
+2025,COMP055,Upgrade Software,8/17/2025
+2022,COMP056,Security Enhancement,5/6/2022
+2022,COMP056,Database Optimization,5/17/2022
+2025,COMP056,Infrastructure Maintenance,12/24/2025
+2022,COMP057,Security Enhancement,11/22/2022
+2022,COMP057,Implement New Process,4/19/2022
+2022,COMP058,Upgrade Software,8/11/2022
+2023,COMP058,Infrastructure Maintenance,5/9/2023
+2023,COMP058,Upgrade Software,6/2/2023
+2024,COMP058,Infrastructure Maintenance,10/11/2024
+2024,COMP058,Database Optimization,10/25/2024
+2025,COMP058,Security Enhancement,1/14/2025
+2025,COMP058,Security Enhancement,6/9/2025
+2022,COMP059,Database Optimization,7/1/2022
+2025,COMP059,Infrastructure Maintenance,12/19/2025
+2022,COMP060,Security Enhancement,9/26/2022
+2024,COMP060,Upgrade Software,12/18/2024
+2025,COMP060,Database Optimization,4/24/2025
+2025,COMP060,Security Enhancement,7/16/2025
+2024,COMP061,Security Enhancement,5/7/2024
+2024,COMP061,Upgrade Software,11/8/2024
+2022,COMP062,Infrastructure Maintenance,9/5/2022
+2024,COMP062,Implement New Process,5/20/2024
+2024,COMP062,Implement New Process,1/11/2024
+2022,COMP063,Upgrade Software,11/20/2022
+2022,COMP063,Infrastructure Maintenance,9/21/2022
+2023,COMP063,Implement New Process,4/17/2023
+2023,COMP063,Database Optimization,6/22/2023
+2022,COMP064,Security Enhancement,11/3/2022
+2022,COMP064,Infrastructure Maintenance,3/8/2022
+2023,COMP064,Implement New Process,2/27/2023
+2023,COMP064,Database Optimization,2/11/2023
+2024,COMP064,Upgrade Software,12/21/2024
+2024,COMP064,Security Enhancement,7/5/2024
+2025,COMP064,Infrastructure Maintenance,11/3/2025
+2022,COMP065,Infrastructure Maintenance,2/15/2022
+2022,COMP065,Security Enhancement,7/9/2022
+2025,COMP065,Upgrade Software,11/19/2025
+2022,COMP066,Security Enhancement,3/22/2022
+2023,COMP067,Security Enhancement,5/15/2023
+2025,COMP067,Implement New Process,10/22/2025
+2022,COMP068,Infrastructure Maintenance,2/26/2022
+2022,COMP068,Security Enhancement,8/13/2022
+2023,COMP068,Upgrade Software,12/28/2023
+2024,COMP068,Database Optimization,2/26/2024
+2024,COMP068,Upgrade Software,2/27/2024
+2025,COMP068,Security Enhancement,10/15/2025
+2025,COMP068,Database Optimization,2/21/2025
+2022,COMP069,Infrastructure Maintenance,10/24/2022
+2022,COMP069,Upgrade Software,12/18/2022
+2024,COMP069,Infrastructure Maintenance,2/7/2024
+2025,COMP069,Infrastructure Maintenance,6/20/2025
+2025,COMP069,Security Enhancement,4/11/2025
+2022,COMP070,Infrastructure Maintenance,3/3/2022
+2023,COMP070,Upgrade Software,12/23/2023
+2025,COMP070,Database Optimization,12/12/2025
+2025,COMP071,Upgrade Software,5/3/2025
+2025,COMP071,Upgrade Software,10/24/2025
+2025,COMP072,Infrastructure Maintenance,7/3/2025
+2022,COMP073,Database Optimization,1/13/2022
+2023,COMP073,Security Enhancement,9/10/2023
+2025,COMP073,Security Enhancement,3/15/2025
+2025,COMP073,Infrastructure Maintenance,6/7/2025
+2022,COMP074,Upgrade Software,5/28/2022
+2023,COMP074,Infrastructure Maintenance,2/27/2023
+2023,COMP074,Security Enhancement,9/5/2023
+2024,COMP074,Security Enhancement,5/25/2024
+2025,COMP074,Security Enhancement,9/15/2025
+2022,COMP075,Implement New Process,1/23/2022
+2023,COMP075,Database Optimization,3/2/2023
+2023,COMP075,Upgrade Software,8/2/2023
+2025,COMP075,Upgrade Software,10/14/2025
+2025,COMP075,Database Optimization,2/22/2025
+2022,COMP076,Security Enhancement,4/12/2022
+2024,COMP076,Implement New Process,3/28/2024
+2024,COMP076,Upgrade Software,7/27/2024
+2025,COMP076,Security Enhancement,1/25/2025
+2025,COMP076,Upgrade Software,5/4/2025
+2022,COMP077,Infrastructure Maintenance,6/23/2022
+2022,COMP077,Security Enhancement,9/16/2022
+2024,COMP077,Security Enhancement,2/23/2024
+2024,COMP077,Database Optimization,5/18/2024
+2025,COMP077,Security Enhancement,10/15/2025
+2023,COMP078,Database Optimization,10/26/2023
+2025,COMP078,Infrastructure Maintenance,6/10/2025
+2025,COMP078,Upgrade Software,1/11/2025
+2022,COMP079,Security Enhancement,12/11/2022
+2022,COMP079,Database Optimization,1/20/2022
+2023,COMP079,Database Optimization,2/4/2023
+2024,COMP079,Implement New Process,6/19/2024
+2025,COMP079,Infrastructure Maintenance,1/20/2025
+2025,COMP079,Database Optimization,12/25/2025
+2022,COMP080,Database Optimization,3/22/2022
+2022,COMP080,Infrastructure Maintenance,5/9/2022
+2024,COMP080,Infrastructure Maintenance,2/26/2024
+2023,COMP081,Database Optimization,1/6/2023
+2023,COMP081,Implement New Process,8/22/2023
+2024,COMP081,Upgrade Software,6/6/2024
+2024,COMP081,Database Optimization,2/2/2024
+2025,COMP081,Infrastructure Maintenance,7/26/2025
+2023,COMP082,Upgrade Software,12/28/2023
+2023,COMP082,Infrastructure Maintenance,8/20/2023
+2024,COMP082,Security Enhancement,12/24/2024
+2024,COMP082,Implement New Process,8/9/2024
+2025,COMP082,Security Enhancement,8/18/2025
+2022,COMP083,Security Enhancement,7/15/2022
+2022,COMP083,Implement New Process,8/4/2022
+2024,COMP083,Implement New Process,2/24/2024
+2024,COMP083,Implement New Process,7/9/2024
+2025,COMP083,Database Optimization,12/25/2025
+2025,COMP083,Implement New Process,1/22/2025
+2022,COMP084,Security Enhancement,10/7/2022
+2022,COMP084,Infrastructure Maintenance,7/17/2022
+2025,COMP084,Infrastructure Maintenance,4/27/2025
+2025,COMP084,Database Optimization,1/4/2025
+2022,COMP085,Implement New Process,9/16/2022
+2022,COMP085,Implement New Process,9/9/2022
+2023,COMP085,Security Enhancement,5/27/2023
+2023,COMP085,Database Optimization,1/24/2023
+2024,COMP085,Implement New Process,12/11/2024
+2025,COMP085,Database Optimization,9/28/2025
+2025,COMP086,Implement New Process,8/10/2025
+2022,COMP087,Implement New Process,3/4/2022
+2022,COMP087,Upgrade Software,5/22/2022
+2024,COMP087,Implement New Process,6/27/2024
+2024,COMP087,Infrastructure Maintenance,4/22/2024
+2025,COMP087,Upgrade Software,11/6/2025
+2023,COMP088,Infrastructure Maintenance,5/25/2023
+2024,COMP088,Security Enhancement,5/7/2024
+2025,COMP088,Security Enhancement,12/5/2025
+2025,COMP088,Security Enhancement,10/21/2025
+2022,COMP089,Implement New Process,11/26/2022
+2023,COMP089,Security Enhancement,9/21/2023
+2024,COMP089,Database Optimization,11/1/2024
+2024,COMP089,Upgrade Software,4/1/2024
+2023,COMP090,Security Enhancement,7/27/2023
+2023,COMP090,Upgrade Software,12/7/2023
+2025,COMP090,Infrastructure Maintenance,6/8/2025
+2022,COMP091,Security Enhancement,7/19/2022
+2022,COMP092,Implement New Process,3/8/2022
+2023,COMP092,Upgrade Software,10/18/2023
+2023,COMP092,Security Enhancement,9/11/2023
+2024,COMP092,Security Enhancement,1/22/2024
+2024,COMP092,Implement New Process,5/28/2024
+2023,COMP093,Infrastructure Maintenance,12/15/2023
+2023,COMP093,Security Enhancement,2/16/2023
+2024,COMP093,Implement New Process,9/28/2024
+2024,COMP093,Database Optimization,7/13/2024
+2025,COMP093,Database Optimization,11/12/2025
+2025,COMP093,Security Enhancement,5/14/2025
+2022,COMP094,Database Optimization,6/5/2022
+2022,COMP094,Database Optimization,5/24/2022
+2023,COMP094,Security Enhancement,1/27/2023
+2024,COMP094,Implement New Process,7/9/2024
+2024,COMP094,Implement New Process,6/23/2024
+2025,COMP094,Infrastructure Maintenance,8/11/2025
+2025,COMP094,Database Optimization,1/17/2025
+2023,COMP095,Implement New Process,1/28/2023
+2024,COMP095,Implement New Process,6/10/2024
+2022,COMP096,Infrastructure Maintenance,4/5/2022
+2022,COMP096,Database Optimization,9/23/2022
+2025,COMP096,Upgrade Software,11/20/2025
+2023,COMP097,Database Optimization,2/10/2023
+2023,COMP097,Security Enhancement,10/3/2023
+2025,COMP097,Database Optimization,3/4/2025
+2022,COMP098,Security Enhancement,5/8/2022
+2023,COMP098,Implement New Process,3/23/2023
+2023,COMP098,Security Enhancement,7/19/2023
+2025,COMP098,Security Enhancement,7/1/2025
+2022,COMP099,Database Optimization,12/18/2022
+2022,COMP099,Database Optimization,7/1/2022
+2023,COMP099,Security Enhancement,10/24/2023
+2023,COMP099,Infrastructure Maintenance,5/15/2023
+2024,COMP099,Security Enhancement,10/5/2024
+2024,COMP099,Implement New Process,8/18/2024
+2022,COMP100,Infrastructure Maintenance,11/7/2022
+2023,COMP100,Security Enhancement,3/6/2023
+2023,COMP100,Database Optimization,6/7/2023
+2024,COMP100,Implement New Process,5/12/2024
+2024,COMP100,Infrastructure Maintenance,3/11/2024
+2025,COMP100,Database Optimization,5/12/2025

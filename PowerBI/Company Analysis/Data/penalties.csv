@@ -1,0 +1,236 @@
+Year,CompanyID,Description,PenaltyDate,PenaltyAmount
+2024,COMP001,Safety violation penalty,9/17/2024,1514.39
+2025,COMP001,Safety violation penalty,9/14/2025,4567.04
+2026,COMP001,Late payment penalty,1/22/2026,2014.56
+2022,COMP002,Safety violation penalty,1/11/2022,8193.09
+2026,COMP002,Contractual penalty,2/3/2026,4762.84
+2025,COMP003,Regulatory fine for non-compliance,12/1/2025,5337.72
+2023,COMP004,Contractual penalty,8/1/2023,5376.31
+2025,COMP004,Environmental violation fine,9/17/2025,2961.77
+2023,COMP005,Environmental violation fine,4/15/2023,7976.92
+2025,COMP005,Safety violation penalty,7/26/2025,1419.76
+2023,COMP006,Environmental violation fine,7/27/2023,4074.72
+2026,COMP007,Regulatory fine for non-compliance,10/22/2026,5920.19
+2024,COMP008,Contractual penalty,1/27/2024,9750.99
+2024,COMP009,Late payment penalty,6/24/2024,2786.7
+2025,COMP009,Environmental violation fine,11/20/2025,6270.12
+2026,COMP009,Late payment penalty,4/12/2026,1061.48
+2024,COMP010,Environmental violation fine,6/26/2024,3344.17
+2025,COMP011,Regulatory fine for non-compliance,12/1/2025,9329.39
+2026,COMP011,Late payment penalty,11/21/2026,5760.01
+2022,COMP013,Contractual penalty,7/22/2022,7782.92
+2023,COMP014,Safety violation penalty,9/2/2023,4244.04
+2024,COMP014,Regulatory fine for non-compliance,7/1/2024,8068.11
+2025,COMP014,Environmental violation fine,5/12/2025,4462.24
+2026,COMP014,Safety violation penalty,10/7/2026,2193.11
+2023,COMP015,Late payment penalty,7/10/2023,6002.11
+2026,COMP015,Safety violation penalty,10/23/2026,1042.39
+2022,COMP016,Late payment penalty,2/16/2022,8392.44
+2025,COMP016,Environmental violation fine,4/4/2025,4148.74
+2026,COMP016,Environmental violation fine,1/11/2026,9423.08
+2022,COMP017,Late payment penalty,2/19/2022,5060.44
+2023,COMP017,Late payment penalty,2/14/2023,3469.62
+2024,COMP017,Safety violation penalty,5/5/2024,3781.91
+2026,COMP017,Regulatory fine for non-compliance,2/28/2026,8780.67
+2022,COMP018,Contractual penalty,2/13/2022,3533.81
+2023,COMP019,Late payment penalty,5/27/2023,1254.81
+2025,COMP019,Late payment penalty,12/12/2025,4624.8
+2022,COMP020,Environmental violation fine,9/12/2022,4328.27
+2024,COMP020,Safety violation penalty,12/11/2024,4502.93
+2025,COMP021,Safety violation penalty,10/5/2025,5040.86
+2022,COMP022,Safety violation penalty,12/22/2022,5009.8
+2023,COMP022,Safety violation penalty,5/13/2023,3310.42
+2026,COMP022,Environmental violation fine,5/5/2026,2682.57
+2023,COMP024,Safety violation penalty,6/2/2023,1862.9
+2025,COMP024,Late payment penalty,5/17/2025,7781.78
+2026,COMP024,Safety violation penalty,3/10/2026,2706.3
+2022,COMP025,Safety violation penalty,10/28/2022,4315.21
+2024,COMP025,Safety violation penalty,9/10/2024,6313.87
+2022,COMP026,Environmental violation fine,4/22/2022,3973.59
+2025,COMP026,Late payment penalty,1/19/2025,3284.3
+2023,COMP027,Regulatory fine for non-compliance,2/5/2023,3235.09
+2024,COMP027,Late payment penalty,5/18/2024,4444.63
+2025,COMP027,Regulatory fine for non-compliance,6/11/2025,8256.68
+2023,COMP028,Late payment penalty,6/6/2023,7146.08
+2024,COMP028,Safety violation penalty,1/1/2024,8075.5
+2025,COMP028,Environmental violation fine,1/23/2025,3882.32
+2022,COMP029,Safety violation penalty,8/19/2022,1749.11
+2023,COMP029,Regulatory fine for non-compliance,1/21/2023,4669.22
+2024,COMP029,Environmental violation fine,7/13/2024,7122.62
+2026,COMP029,Safety violation penalty,8/22/2026,5381.47
+2022,COMP030,Contractual penalty,7/25/2022,1756.32
+2023,COMP030,Environmental violation fine,1/19/2023,3660.27
+2026,COMP030,Safety violation penalty,8/21/2026,8554.89
+2022,COMP031,Regulatory fine for non-compliance,9/21/2022,7579.99
+2024,COMP031,Contractual penalty,8/6/2024,4451.48
+2025,COMP031,Safety violation penalty,7/8/2025,2497.86
+2026,COMP031,Regulatory fine for non-compliance,6/27/2026,6631.4
+2024,COMP032,Late payment penalty,4/15/2024,2398.39
+2025,COMP032,Safety violation penalty,2/11/2025,5302.19
+2026,COMP032,Safety violation penalty,2/6/2026,4376.78
+2023,COMP033,Regulatory fine for non-compliance,8/25/2023,2591.06
+2024,COMP033,Environmental violation fine,9/15/2024,9867.1
+2025,COMP033,Late payment penalty,8/22/2025,9790.17
+2023,COMP034,Safety violation penalty,9/20/2023,5072.54
+2022,COMP035,Regulatory fine for non-compliance,1/1/2022,8042.21
+2023,COMP035,Late payment penalty,7/11/2023,9860.21
+2024,COMP035,Late payment penalty,7/25/2024,9467.8
+2026,COMP035,Late payment penalty,3/24/2026,7558.47
+2023,COMP036,Safety violation penalty,11/6/2023,4496.7
+2024,COMP036,Regulatory fine for non-compliance,7/8/2024,2897.25
+2025,COMP036,Contractual penalty,2/20/2025,5596.07
+2026,COMP037,Contractual penalty,6/14/2026,9038.46
+2026,COMP038,Regulatory fine for non-compliance,2/13/2026,6009.23
+2022,COMP039,Safety violation penalty,4/16/2022,2811.76
+2024,COMP039,Late payment penalty,5/9/2024,7063.56
+2022,COMP040,Late payment penalty,1/14/2022,6736.6
+2023,COMP040,Late payment penalty,11/16/2023,3490.94
+2024,COMP040,Safety violation penalty,4/12/2024,3286.73
+2025,COMP040,Environmental violation fine,9/10/2025,6799.23
+2025,COMP041,Regulatory fine for non-compliance,6/10/2025,5173.47
+2022,COMP042,Environmental violation fine,6/10/2022,7544.39
+2026,COMP042,Environmental violation fine,4/20/2026,8710.14
+2023,COMP043,Environmental violation fine,3/18/2023,7360.58
+2022,COMP044,Regulatory fine for non-compliance,7/4/2022,7772.59
+2024,COMP044,Environmental violation fine,10/7/2024,8501.44
+2023,COMP045,Late payment penalty,1/11/2023,4784.09
+2024,COMP045,Environmental violation fine,8/18/2024,4087.8
+2025,COMP045,Safety violation penalty,4/7/2025,6095.41
+2026,COMP045,Environmental violation fine,11/12/2026,6873.66
+2023,COMP046,Safety violation penalty,12/13/2023,9091.11
+2025,COMP046,Late payment penalty,9/21/2025,5530.92
+2026,COMP046,Environmental violation fine,7/2/2026,6930.52
+2022,COMP047,Regulatory fine for non-compliance,11/22/2022,2710.68
+2024,COMP047,Contractual penalty,5/17/2024,2388.8
+2025,COMP047,Safety violation penalty,8/20/2025,9948.52
+2026,COMP047,Contractual penalty,12/21/2026,6464.33
+2022,COMP048,Environmental violation fine,3/8/2022,6317.63
+2023,COMP048,Contractual penalty,1/11/2023,2489.35
+2023,COMP049,Environmental violation fine,3/13/2023,3184.53
+2024,COMP050,Regulatory fine for non-compliance,6/6/2024,3208.45
+2022,COMP051,Contractual penalty,10/9/2022,5812.8
+2024,COMP051,Regulatory fine for non-compliance,6/2/2024,3004.8
+2025,COMP051,Late payment penalty,2/6/2025,1475.44
+2023,COMP053,Late payment penalty,11/25/2023,3647.28
+2026,COMP053,Environmental violation fine,2/23/2026,8973.05
+2022,COMP054,Safety violation penalty,6/1/2022,7327.73
+2024,COMP054,Environmental violation fine,6/1/2024,9610.54
+2025,COMP054,Contractual penalty,6/23/2025,4941.07
+2022,COMP055,Safety violation penalty,9/22/2022,6226.57
+2025,COMP055,Regulatory fine for non-compliance,9/27/2025,1659.27
+2026,COMP055,Late payment penalty,1/9/2026,1663.62
+2022,COMP056,Safety violation penalty,6/3/2022,8497.29
+2024,COMP056,Environmental violation fine,7/8/2024,6176.92
+2025,COMP056,Regulatory fine for non-compliance,8/17/2025,2002.7
+2026,COMP056,Late payment penalty,12/17/2026,7432.77
+2023,COMP057,Safety violation penalty,8/3/2023,9117.38
+2025,COMP057,Late payment penalty,1/4/2025,7074.7
+2022,COMP058,Regulatory fine for non-compliance,8/7/2022,8253.82
+2024,COMP058,Environmental violation fine,10/20/2024,2259.51
+2022,COMP059,Regulatory fine for non-compliance,1/13/2022,5298.21
+2025,COMP059,Environmental violation fine,6/5/2025,5288.84
+2023,COMP060,Regulatory fine for non-compliance,6/6/2023,6440.59
+2025,COMP060,Contractual penalty,10/26/2025,6253.55
+2022,COMP061,Environmental violation fine,6/26/2022,9072.91
+2024,COMP061,Contractual penalty,9/6/2024,8329.22
+2026,COMP061,Regulatory fine for non-compliance,9/10/2026,1734.55
+2022,COMP062,Environmental violation fine,12/5/2022,3128.37
+2023,COMP062,Contractual penalty,4/20/2023,7390.41
+2024,COMP062,Environmental violation fine,4/2/2024,1231.58
+2025,COMP062,Late payment penalty,6/26/2025,4082.45
+2022,COMP063,Late payment penalty,8/5/2022,7243.18
+2023,COMP063,Environmental violation fine,10/4/2023,3868.35
+2024,COMP063,Regulatory fine for non-compliance,3/17/2024,8746.49
+2025,COMP063,Safety violation penalty,4/26/2025,4310.86
+2026,COMP063,Contractual penalty,12/25/2026,6440.23
+2024,COMP064,Late payment penalty,5/21/2024,8741.81
+2025,COMP064,Late payment penalty,5/9/2025,1472.15
+2026,COMP064,Late payment penalty,4/20/2026,7513.42
+2024,COMP065,Environmental violation fine,1/8/2024,9207.99
+2025,COMP065,Regulatory fine for non-compliance,10/21/2025,7567.75
+2024,COMP066,Late payment penalty,7/8/2024,3238.97
+2025,COMP066,Contractual penalty,7/1/2025,4479.92
+2026,COMP066,Late payment penalty,2/2/2026,4436.58
+2022,COMP067,Late payment penalty,1/9/2022,3857.13
+2023,COMP067,Environmental violation fine,8/20/2023,9306.58
+2024,COMP067,Environmental violation fine,1/13/2024,5206.34
+2025,COMP067,Contractual penalty,12/24/2025,9888.73
+2023,COMP068,Contractual penalty,7/27/2023,1259.77
+2024,COMP068,Safety violation penalty,4/27/2024,2174.01
+2026,COMP068,Safety violation penalty,7/5/2026,2891.46
+2023,COMP069,Contractual penalty,2/12/2023,9019.09
+2025,COMP069,Safety violation penalty,9/12/2025,3412.29
+2026,COMP069,Regulatory fine for non-compliance,9/19/2026,1985.51
+2022,COMP070,Safety violation penalty,6/26/2022,1860.11
+2023,COMP070,Contractual penalty,11/4/2023,5131.59
+2024,COMP070,Environmental violation fine,7/8/2024,4121.8
+2025,COMP070,Environmental violation fine,8/5/2025,4858.82
+2022,COMP071,Safety violation penalty,11/7/2022,7552.36
+2024,COMP071,Regulatory fine for non-compliance,6/8/2024,8280.15
+2025,COMP071,Late payment penalty,3/7/2025,6687.7
+2023,COMP072,Late payment penalty,12/27/2023,6191.74
+2023,COMP073,Regulatory fine for non-compliance,10/4/2023,5166.48
+2024,COMP073,Safety violation penalty,1/10/2024,1377.71
+2026,COMP074,Safety violation penalty,12/14/2026,2525.37
+2022,COMP075,Regulatory fine for non-compliance,11/19/2022,7939.3
+2025,COMP075,Contractual penalty,8/14/2025,3918.14
+2026,COMP075,Late payment penalty,6/9/2026,4742.01
+2022,COMP076,Safety violation penalty,3/2/2022,3697.81
+2022,COMP077,Contractual penalty,8/16/2022,4715.63
+2023,COMP077,Late payment penalty,2/19/2023,8695.54
+2024,COMP077,Environmental violation fine,7/25/2024,5447.6
+2022,COMP078,Environmental violation fine,10/7/2022,4488.96
+2023,COMP078,Safety violation penalty,8/7/2023,8542.41
+2025,COMP079,Regulatory fine for non-compliance,8/2/2025,9118.91
+2026,COMP079,Contractual penalty,4/25/2026,5503.61
+2023,COMP080,Environmental violation fine,7/27/2023,9485.5
+2022,COMP081,Safety violation penalty,1/26/2022,5382.77
+2023,COMP081,Contractual penalty,5/27/2023,3733.06
+2024,COMP081,Late payment penalty,9/8/2024,3736.28
+2025,COMP081,Late payment penalty,8/17/2025,8026.96
+2023,COMP082,Regulatory fine for non-compliance,7/14/2023,3838.98
+2026,COMP082,Safety violation penalty,4/6/2026,3762.24
+2022,COMP083,Regulatory fine for non-compliance,12/25/2022,8566.1
+2023,COMP083,Environmental violation fine,6/4/2023,5978.08
+2022,COMP084,Contractual penalty,4/3/2022,7944.39
+2025,COMP084,Regulatory fine for non-compliance,9/6/2025,6928.26
+2022,COMP085,Regulatory fine for non-compliance,2/22/2022,1706.92
+2023,COMP085,Contractual penalty,8/25/2023,4242.4
+2024,COMP085,Regulatory fine for non-compliance,2/28/2024,4081.04
+2026,COMP085,Safety violation penalty,9/23/2026,2596.11
+2024,COMP086,Contractual penalty,10/8/2024,7900.22
+2025,COMP086,Safety violation penalty,3/8/2025,7014.88
+2024,COMP087,Late payment penalty,2/4/2024,3940.41
+2026,COMP087,Regulatory fine for non-compliance,9/13/2026,3040.42
+2024,COMP088,Environmental violation fine,8/8/2024,1631.65
+2025,COMP088,Contractual penalty,12/20/2025,5579.11
+2026,COMP088,Late payment penalty,1/28/2026,5677.27
+2022,COMP089,Late payment penalty,2/26/2022,5994.74
+2024,COMP089,Late payment penalty,11/8/2024,2366.4
+2025,COMP089,Environmental violation fine,12/20/2025,4709.22
+2026,COMP089,Environmental violation fine,8/3/2026,2097.11
+2023,COMP090,Late payment penalty,11/28/2023,4245.13
+2026,COMP090,Contractual penalty,7/28/2026,2261.52
+2022,COMP091,Contractual penalty,2/21/2022,2177.85
+2025,COMP091,Safety violation penalty,4/21/2025,3815
+2022,COMP092,Safety violation penalty,2/2/2022,5848
+2023,COMP092,Environmental violation fine,9/27/2023,7485.57
+2025,COMP092,Contractual penalty,10/4/2025,6477.22
+2022,COMP093,Contractual penalty,2/9/2022,7503.4
+2024,COMP093,Safety violation penalty,6/23/2024,2040.64
+2025,COMP093,Contractual penalty,2/4/2025,9889.52
+2026,COMP093,Safety violation penalty,10/12/2026,9262.68
+2024,COMP094,Contractual penalty,8/16/2024,9028.65
+2025,COMP094,Late payment penalty,1/13/2025,3505.04
+2022,COMP095,Late payment penalty,3/13/2022,2825.63
+2025,COMP096,Safety violation penalty,12/20/2025,1153.54
+2022,COMP097,Environmental violation fine,3/14/2022,7947.99
+2025,COMP097,Late payment penalty,6/28/2025,3286.5
+2026,COMP097,Late payment penalty,5/9/2026,8723.49
+2024,COMP098,Regulatory fine for non-compliance,3/28/2024,9686.87
+2022,COMP099,Contractual penalty,8/12/2022,1691.84
+2023,COMP099,Regulatory fine for non-compliance,11/1/2023,9227.04
+2025,COMP099,Contractual penalty,6/19/2025,9560.32
+2026,COMP099,Late payment penalty,9/5/2026,8628.09
+2023,COMP100,Safety violation penalty,2/17/2023,6809.26
+2024,COMP100,Contractual penalty,6/7/2024,1261.76

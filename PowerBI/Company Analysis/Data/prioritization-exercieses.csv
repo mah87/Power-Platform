@@ -1,0 +1,9 @@
+Prioritization ID,Scope From,Scope To,Annual Report Cycle,Reporting Year,Type,Area,Status
+P1-A,1/1/2022,12/31/2022,ARC-1,2022,Annual,A,Active
+P1-B,1/1/2022,12/31/2022,ARC-1,2022,Annual,B,Active
+P2-A,1/1/2023,12/31/2023,ARC-2,2023,Annual,A,Inactive
+P2-B,1/1/2023,12/31/2023,ARC-2,2023,Annual,B,Inactive
+P3-A,1/1/2024,12/31/2024,ARC-3,2024,Annual,A,Inactive
+P3-B,1/1/2024,12/31/2024,ARC-3,2024,Annual,B,Inactive
+P4-A,1/1/2025,12/31/2025,ARC-4,2025,Annual,A,Inactive
+P4-B,1/1/2025,12/31/2025,ARC-4,2025,Annual,B,Inactive
